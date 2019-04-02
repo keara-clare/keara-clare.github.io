@@ -1,0 +1,211 @@
+body {
+
+  background-color: white;
+
+
+
+}
+
+ol,ul {
+
+	list-style: none;
+
+}
+
+.nav-bar {
+
+	margin: 20px;
+
+	width: 1000px;
+
+	font-family: sans-serif;
+
+}
+
+.nav-bar li {
+
+	display:block;
+
+	width:100px;
+
+	float:left;
+
+	margin-left:2px;
+
+	
+
+}
+
+.nav-bar a {
+
+	/*display:block;*/
+
+	padding:3px;
+
+	text-decoration:none;
+
+	background-color: #97C4FF;
+
+	color:#009;
+
+}
+
+.nav-bar a:hover {
+
+	color:white;
+
+}
+
+.heading {
+
+  color: #38393F;
+
+  text-align: center;
+
+  font-family: "Helvetica";
+
+}
+
+
+
+ul#horizontal-list {
+
+	min-width: 696px;
+
+	list-style: none;
+
+	padding-top: 20px;
+
+	}
+
+
+
+ul#horizontal-list li {
+
+		display: inline;
+
+}
+
+
+
+.Profile {
+
+  padding: 10px;
+
+  margin: -10px;
+
+  /*background-image: linear-gradient(to bottom right, #97C4FF, white);*/
+
+  background-color: #97C4FF;
+
+  text-align: center;
+
+  color: black;
+
+}
+
+.myName{
+
+	margin-top: 30px;
+
+ padding: 10px;
+
+}
+
+.myPhoto {
+
+  width:400px;
+
+  height:400px;
+
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width: 40%;
+
+  padding-bottom: 100px;
+
+  padding-top: 30px;
+
+}
+
+.eduPhoto{
+
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width: 600px;
+
+  height: 200px;
+
+}
+
+.editSize{
+
+  width: 500px;
+
+  height: 240px;
+
+}
+
+
+
+.removeMargins{
+
+  margin: -1 px;
+
+}
+
+
+
+.heading-description{
+
+  padding-left: 100px;
+
+  padding-right: 100px;
+
+  border-bottom: 1px #F7F8FF;
+
+  padding: 30px;
+
+  text-align: center;
+
+}
+
+.heading-description-j{
+
+  padding-left: 100px;
+
+  padding-right: 100px;
+
+  border-bottom: 1px #F7F8FF;
+
+  padding: 30px;
+
+  text-align: justify;
+
+  /*text-align: center;*/
+
+}
+
+.even{
+
+  background-color: #F6F7FB;
+
+  padding: 10px;
+
+  margin-left: -10px;
+
+  margin-right: -10px;
+
+}
+
+
+
+/* https://www.webucator.com/how-to/how-create-horizontal-navigation-menu-with-css.cfm */
